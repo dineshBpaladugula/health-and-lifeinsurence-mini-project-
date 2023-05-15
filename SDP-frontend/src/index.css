@@ -1,0 +1,71 @@
+/*-----------------Skill-1 ID----------------*/
+.div{
+    width: 280px;
+    height: 400px;
+    background-color: lightgray;
+    position: relative;
+    left: 500px;
+    top: 80px;
+   border-radius: 20px;
+   text-align:center ;
+  }
+  .PIC {
+    width: 150px;
+    height: 150px;
+    border-radius: 70px;
+    margin-top: 20px;
+    position: relative;
+    
+  }
+  /*----------------------SKILL-2 COUNTER----------*/
+  .Div{
+    width: 200px;
+   height: 100px;
+   position: relative;
+   left:600px;
+   top:200px;
+   text-align: center;
+   }
+  .btn{
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+    position: relative;
+    right: 100px;
+    background-color: blue;
+    text-align: center;
+    color: white;
+    cursor: pointer;
+  }
+  .btn1{
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: red;
+    text-align: center;
+    color: white;
+    position:relative;
+    left: 100px;
+    bottom: 40px;
+    cursor: pointer;
+  }
+
+
+.did{
+ 
+  text-align: center;
+}
+ /*----------------------SKILL-3 WEBSITE--------------------*/
+
+.div{
+
+  width: 1000px;
+  height: 1200px;
+  background-color: white;
+  font-size: 20px;
+}
+/*--------------------*/
+.home{
+  text-align: center;
+  font-size: 60px;
+}

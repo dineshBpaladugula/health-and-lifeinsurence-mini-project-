@@ -1,0 +1,89 @@
+  section{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+     
+    }
+    .box{
+      position: relative;
+    }
+    .div{
+      position: relative;
+      width: 500px;
+     height: 600px;
+      border-radius: 10px;
+      left: 50px;
+      top: 10px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      backdrop-filter: blur(5px);
+      box-shadow: 0 25px 45px rgba(0 ,0 ,0,0.1);
+      border: 1px solid rgba(0 ,0 ,0,0.1);
+      
+    }
+    .form{
+      position:relative;
+      width: 100%;
+      height: 100%;
+      padding: 40px;
+      margin-bottom: 5%;
+    
+    }
+    .form h3{
+      position:relative;
+      color: black;
+      font-size: 40px;
+     font-family: 'Times New Roman', Times, serif;
+      font-weight: 600;
+      letter-spacing: 1px ;
+      margin-bottom: 40px;
+    }
+    .form .inputs{
+      width: 100%;
+      margin-top: 20px;
+    }
+    .form .inputs input{
+      position: relative;
+      width: 100%;
+      padding: 10px 20px;
+      border-radius: 20px;
+      right: 20px;
+      font-size: 26px;
+      letter-spacing: 1px;
+      box-shadow: 0 5px 15px rgba(0 ,0 ,0,0.1);
+    }
+    .form .inputs input::placeholder{
+      color:black;
+      font-size: 26px
+    } 
+    .form .inputs input[type="submit"]{
+      background: #f1f4f9;
+      color: black;
+      max-width: 100px;
+      cursor: pointer;
+      margin-bottom: 20px;
+      font-weight: 600;
+    }
+    .log{
+      position: relative;
+      top: 50px;
+      height: 60px;
+      width: 120px;
+      font-size: 26px;
+    }
+    .or{
+      font-size: 28px;
+      text-align: center;
+      position: relative;
+      top: 80px;
+    }
+    .sig{
+      position: relative;
+      top: 50px;
+      height: 60px;
+      width: 120px;
+      font-size: 26px;
+      left: 10px;
+    }

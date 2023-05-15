@@ -1,0 +1,84 @@
+.application{
+    width: 100%;
+    height: 100px;
+    background-color: palegoldenrod;
+    text-align: center;
+    color: black;
+    text-align: center;
+}
+.application h1{
+    position: relative;
+    top: 25px;
+}
+.application1{
+    width: 100%;
+    height: 100px;
+}
+.application1 p{
+    font-size: 18px;
+    text-align: right;
+}
+.application3{
+    width: 100%;
+    height: 50px;
+    background-color: palegoldenrod;
+}
+.application3 h2{
+    position: relative;
+    left: 20px;
+    top: 10px;
+}
+.application4{
+   width: 100%;
+   word-spacing: 5px;
+}
+.application5{
+    width: 100%;
+    height: 50px;
+    background-color: palegoldenrod;
+}
+
+.application5 h2{
+    position: relative;
+    left: 20px;
+    top: 10px;
+}
+.application7{
+    width: 100%;
+    height: 50px;
+    background-color: palegoldenrod;
+}
+
+.application7 h2{
+    position: relative;
+    left: 20px;
+    top: 10px;
+}
+.application8{
+    width: 100%;
+    height: 50px;
+    background-color: palegoldenrod;
+}
+
+.application8 h2{
+    position: relative;
+    left: 20px;
+    top: 10px;
+}
+.ol{
+    font-size: 20px;
+}
+
+.application_form > .button {
+    background: #18f2d5;
+    border: 1px solid #1877f2;
+    color: rgb(19, 18, 18);
+    font-size: 1.25rem;
+    padding: 0.5rem;
+    margin: 0.5rem 0;
+    border-radius: 8px;
+    outline: none;
+    cursor: pointer;
+}
+
+
